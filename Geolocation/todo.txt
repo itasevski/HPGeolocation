@@ -1,0 +1,3 @@
+Restrikcija na API kluc
+Proverka na delot so deprecation od geolokacijata X
+Browser poddrska za geolokacija & korisnicka dozvola za prezemanje lokacija X
