@@ -1,3 +1,9 @@
+## Hospital-Pharmacy Geolocation
+
+HPGeolocation is an app that shows the user's nearest hospitals and pharmacies on a map (in a 2000 meter radius), along with information related to them.
+
+### Usage
+
 In the index.html file, you need to replace the first script's "src" link's "key" request parameter
 with your generated Google API key.
 
